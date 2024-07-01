@@ -1,6 +1,4 @@
-Sure, here's a sample README for your GitHub repository that includes the instructions for setting up and using the middleware:
 
-```markdown
 # Laravel Middleware for Ensuring Correct Data Types in API Responses
 
 This repository contains a Laravel middleware that ensures the data types in the API response match the expected model data types. Specifically, it converts JSON strings representing arrays back into PHP arrays.
@@ -145,6 +143,3 @@ Feel free to submit pull requests or open issues to improve this middleware.
 ## License
 
 This project is open-source and available under the [MIT License](LICENSE).
-```
-
-This README file provides clear instructions on how to set up and use the middleware to ensure correct data types in Laravel API responses. You can adjust the instructions and sections as needed for your specific repository.
