@@ -5,7 +5,7 @@ This repository contains a Laravel middleware that ensures the data types in the
 
 # Developed By Eng. Mohamed Hekal 
 
- ##Noouh For Integrated Solutions
+ ## Noouh For Integrated Solutions
    
 ## Installation
 
