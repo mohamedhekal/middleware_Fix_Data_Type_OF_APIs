@@ -3,7 +3,9 @@
 
 This repository contains a Laravel middleware that ensures the data types in the API response match the expected model data types. Specifically, it converts JSON strings representing arrays back into PHP arrays.
 
-# Developed By Eng. Mohamed Hekal @ Nouuh For Integrated Solutions
+# Developed By Eng. Mohamed Hekal 
+
+ ##Noouh For Integrated Solutions
    
 ## Installation
 
