@@ -3,6 +3,8 @@
 
 This repository contains a Laravel middleware that ensures the data types in the API response match the expected model data types. Specifically, it converts JSON strings representing arrays back into PHP arrays.
 
+# Developed By Eng. Mohamed Hekal @ Nouuh For Integrated Solutions
+   
 ## Installation
 
 1. Clone the repository or download the code.
@@ -125,7 +127,7 @@ This repository contains a Laravel middleware that ensures the data types in the
    Apply the middleware to your routes or controllers. For example, in your `routes/api.php`:
 
    ```php
-   Route::group(['middleware' => ['ensure.correct.data.type', 'localization'], 'namespace' => 'Api\V1'], function () {
+   Route::group(['middleware' => ['ensure.correct.data.type', ' any other middlewares'], 'namespace' => 'Api\V1'], function () {
        // Define your routes here
        Route::get('/example', [ExampleController::class, 'exampleMethod']);
        // Add other routes here
